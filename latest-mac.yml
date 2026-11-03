@@ -1,12 +1,7 @@
 version: 2.3.3
-downloadUrl: "https://drive.google.com/file/d/1gu8m38AmWxY89M9IRbW0jA96iJ9FifId/view?usp=sharing"
+downloadUrl: "https://drive.google.com/file/d/1gu8m38AmWxY89M9IRbW0jA96iJ9FifId/view"
 releaseNotes: |
-  - # KAi Studio 2.3.3
-
-## Tính năng mới
+- # KAi Studio 2.3.3
 - **AI Upscale (Beta):** phóng lớn ảnh JPG/PNG bên ngoài hoặc dùng ảnh preview đã chỉnh trong dự án.
 - Hỗ trợ phóng lớn x2/x4 và tùy chọn phục hồi khuôn mặt
 - **Màn phụ:** hiển thị preview ảnh đang chỉnh, hỗ trợ Fit, xem theo kích thước pixel, tên ảnh và đồng bộ chuyển ảnh/zoom/pan từ màn hình chính.
-## Ghi chú
-- AI Upscale đang ở giai đoạn **Beta**; kết quả có thể khác nhau tùy ảnh nguồn và model.
-- Ảnh lấy từ dự án là preview đã chỉnh theo thiết lập hiện tại, không phải file master RAW độ phân giải đầy đủ.
